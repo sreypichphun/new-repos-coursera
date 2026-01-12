@@ -1,2 +1,2 @@
 # new-repos-coursera
-I am editing README file.
+I am editing README file. Adding some more details about the project description.
